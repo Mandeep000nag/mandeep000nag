@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Mandeep Dhillon</h1>
+<h1 align="center">Hola 👋, I'm KING</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 

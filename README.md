@@ -28,7 +28,7 @@
 
 <a href="https://fb.com/ohi.dhillon77102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ohi.dhillon77102" height="30" width="40" /></a>
 
-<a href="https://instagram.com/_ohi_dhillon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ohi_dhillon_" height="30" width="40" /></a>
+<a href="https://instagram.com/mandeep_4501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandeep_4501" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/sycoislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sycoislive" height="30" width="40" /></a>
 

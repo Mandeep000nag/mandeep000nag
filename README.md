@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandeep000nag" alt="mandeep000nag" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_ohi_dhillon_" target="blank"><img src="https://img.shields.io/twitter/follow/_ohi_dhillon_?logo=twitter&style=for-the-badge" alt="_ohi_dhillon_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mandeep_4501" target="blank"><img src="https://img.shields.io/twitter/follow/mandeep_4501?logo=twitter&style=for-the-badge" alt="mandeep_4501" /></a> </p>
 
 - 🔭 I’m currently working on **VS Code Project**
 
@@ -22,7 +22,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/_ohi_dhillon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ohi_dhillon_" height="30" width="40" /></a>
+<a href="https://twitter.com/mandeep_4501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandeep_4501" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/mandeep95589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandeep95589" height="30" width="40" /></a>
 

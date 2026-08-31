@@ -1,59 +1,94 @@
-<h1 align="center">Hola 👋,Team CodeX 4501</h1>
+# 👋 Hola, Team CodeX4501
 
-<h3 align="center">passionate frontend developers from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codex4501&label=Profile%20views&color=0e75b6&style=flat" alt="CodeX4501" /> </p>
+## 💻 CodeX4501
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeX4501" alt="CodeX4501" /></a> </p>
+**Build • Code • Collaborate • Grow**
 
-<p align="left"> <a href="https://twitter.com/mandeep_4501" target="blank"><img src="https://img.shields.io/twitter/follow/mandeep_4501?logo=twitter&style=for-the-badge" alt="mandeep_4501" /></a> </p>
+A passionate community of **developers, techies, and college innovators** building, learning, and experimenting together.
 
-- 🔭 I’m currently working on **VS Code Project**
+</div>
 
-- 🌱 I’m currently learning **Everything 😇**
+---
 
-- 👯 2021-2022 Gols I’m looking to collaborate on **Open Source Projects**
+## 🚀 What We Do
 
-- 📫 How to reach me **Mandeep4501@icloud.com**
+- 💻 Build **websites, applications & software projects**
+- 🌱 Learn and explore **new technologies**
+- 🤝 Collaborate on **open-source & college projects**
+- 🧠 Share ideas, knowledge, and practical development skills
+- ⚡ Turn ideas into working projects
 
-- ⚡ Fun fact **The Team is Very Funny.**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
-<a href="https://twitter.com/mandeep_4501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandeep_4501" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/mandeep95589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandeep95589" height="30" width="40" /></a>
-
-<a href="https://fb.com/ohi.dhillon77102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ohi.dhillon77102" height="30" width="40" /></a>
-
-<a href="https://instagram.com/mandeep_4501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandeep_4501" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/sycoislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sycoislive" height="30" width="40" /></a>
-
-<a href="https://discord.gg/https://discord.gg/adZNyNgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/adZNyNgs" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,git,github,vscode" />
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 👨‍💻 Team Philosophy
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandeep000nag&show_icons=true&locale=en&layout=compact" alt="mandeep000nag" /></p>
+> **Code it. Break it. Fix it. Ship it.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandeep000nag&show_icons=true&locale=en" alt="mandeep000nag" /></p>
+We believe the best way to learn technology is by **building real things together**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandeep000nag&" alt="mandeep000nag" /></p>
+### 🎯 Our Goals
 
+| Goal | Focus |
+|---|---|
+| 🚀 Build | Real-world projects |
+| 📚 Learn | New technologies & tools |
+| 🤝 Collaborate | Open-source & team projects |
+| 💡 Innovate | New ideas & solutions |
+| 🌐 Connect | Developers & tech enthusiasts |
 
+---
 
+## 📂 Featured Projects
 
+> 🚧 Projects are being built. Stay tuned!
 
+- 🔥 **CodeX Projects** — Our development experiments
+- 🌐 **Web Projects** — Frontend & full-stack builds
+- 🤖 **Tech Experiments** — Learning through projects
+- 🧩 **Open Source** — Contributions & collaborations
 
+---
 
+## 📊 GitHub
 
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeX4501&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX4501&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
 
+---
+
+## 🔗 Connect With Us
+
+<div align="center">
+
+**Follow the journey — @CodeX4501**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ CodeX4501
+
+**IDEAS • CODE • IMPACT**
+
+*Made by developers, powered by curiosity.*
+
+</div>

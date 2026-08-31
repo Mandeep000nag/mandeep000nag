@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, We Are Team CodeX 4501</h1>
+<h1 align="center">Hola 👋,Team CodeX 4501</h1>
 
 <h3 align="center">passionate frontend developers from India</h3>
 

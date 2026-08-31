@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, I'm KING</h1>
+<h1 align="center">Hola 👋, We Are Team CodeX 4501</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">passionate frontend developers from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandeep000nag&label=Profile%20views&color=0e75b6&style=flat" alt="mandeep000nag" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Mandeep95589@hotmail.com**
 
-- ⚡ Fun fact **I think I'm Funny.**
+- ⚡ Fun fact **The Team is Very Funny.**
 
 <h3 align="left">Connect with me:</h3>
 

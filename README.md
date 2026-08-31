@@ -2,9 +2,9 @@
 
 <h3 align="center">passionate frontend developers from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandeep000nag&label=Profile%20views&color=0e75b6&style=flat" alt="mandeep000nag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codex4501&label=Profile%20views&color=0e75b6&style=flat" alt="CodeX4501" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandeep000nag" alt="mandeep000nag" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeX4501" alt="CodeX4501" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mandeep_4501" target="blank"><img src="https://img.shields.io/twitter/follow/mandeep_4501?logo=twitter&style=for-the-badge" alt="mandeep_4501" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 👯 2021-2022 Gols I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **Mandeep95589@hotmail.com**
+- 📫 How to reach me **Mandeep4501@icloud.com**
 
 - ⚡ Fun fact **The Team is Very Funny.**
 
